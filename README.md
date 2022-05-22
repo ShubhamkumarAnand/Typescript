@@ -4,7 +4,7 @@ This repo contains all the learning of the typescript
 
 > Typescript has two Methods of learning
 
-#### 1. Syntax + Features
+1. Syntax + Features
 
 - Understanding the basic type in Typescript
 - Function Typing and Annotations
@@ -13,7 +13,7 @@ This repo contains all the learning of the typescript
 - Module Systems
 - Classes and Refresher in OOPS
 
-#### 2. Design Patterns
+  2.Design Patterns
 
 - Project Based on Syntax to Understand Design Patterns.
 
@@ -24,7 +24,7 @@ that a value has
 
     eg. "red" is a string
 
-#### Types in typescript
+Types in typescript
 
 `string, numbers, boolean, Date`
 
